@@ -1,0 +1,7 @@
+{
+  "languages":
+    [
+      {"id": 6, "name": "en", "label": "English"},
+      {"id": 7, "name": "eo", "label": "Esperanto"}
+    ]
+  }
